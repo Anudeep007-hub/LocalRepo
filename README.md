@@ -1,1 +1,1 @@
-It's a sample page for giit learning
+It's a sample page for Git learning
